@@ -1,10 +1,10 @@
 {
-  "name": "@vb-ws/b",
+  "name": "@vb-ws/s",
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "asdf": "echo 'Run asdf on workspace: b'"
+    "asdf": "echo 'Run asdf on workspace: s'"
   },
   "publishConfig": {
     "access": "public"
