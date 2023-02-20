@@ -1,0 +1,9 @@
+{
+  "name": "@vb-ws/c",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "asdf": "echo 'Run asdf on workspace: c'"
+  }
+}

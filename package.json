@@ -1,0 +1,6 @@
+{
+  "name": "root",
+  "private": true,
+  "license": "MIT",
+  "workspaces": ["packages/*"]
+}
