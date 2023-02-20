@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "asdf": "echo 'Run asdf on workspace: d'"
-  }  
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
