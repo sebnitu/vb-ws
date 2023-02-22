@@ -1,18 +1,25 @@
 {
   "name": "@vb-ws/asdf",
   "version": "0.0.3",
-  "main": "index.js",
   "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.umd.cjs",
+  "module": "./dist/index.js",
+  "files": [
+    "dist",
+    "index.js"
+  ],
   "scripts": {
-    "asdf": "echo 'Run asdf on workspace: asdf'"
+    "serve": "vite",
+    "build": "vite build"
   },
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@vb-ws/a": "^0.0.0",
-    "@vb-ws/d": "^0.0.0",
-    "@vb-ws/f": "^0.0.0",
-    "@vb-ws/s": "^0.0.0"
+    "@vb-ws/a": "^0.0.3",
+    "@vb-ws/d": "^0.0.3",
+    "@vb-ws/f": "^0.0.3",
+    "@vb-ws/s": "^0.0.3"
   }
 }
