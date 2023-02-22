@@ -2,4 +2,4 @@
 "@vb-ws/asdf": patch
 ---
 
-Adds vite into the build flow
+Adds vite to the project.
