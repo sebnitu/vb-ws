@@ -1,5 +1,11 @@
 # @vb-ws/asdf
 
+## 0.0.8
+
+### Patch Changes
+
+- 9497812: Update the markup for asdf package
+
 ## 0.0.7
 
 ### Patch Changes
