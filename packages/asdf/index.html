@@ -4,11 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite Test</title>
+    <link rel="stylesheet" href="https://unpkg.com/vrembem/dist/styles.css">
   </head>
   <body>
-    <div id="app">
-      <h1>Vite Test</h1>
-    </div>
+
+    <main id="app">
+      <section class="section background-shade">
+        <div class="section__container gap-y-xs">
+          <h1 class="text-size-lg">Vrembem Workspaces</h1>
+          <p class="max-width-xs">This is a test repository for working with NPM workspaces, Vite, Vitest and Changeset.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section__container gap-y">
+          <h2>Quick links</h2>
+          <ul class="list">
+            <li><a class="link" href="https://docs.npmjs.com/cli/v7/using-npm/workspaces">Workspaces</a></li>
+            <li><a class="link" href="https://github.com/changesets/changesets">Changeset</a></li>
+            <li><a class="link" href="https://github.com/changesets/action">Changeset Action</a></li>
+            <li><a class="link" href="https://vitejs.dev/">Vite</a></li>
+            <li><a class="link" href="https://vitest.dev/">Vitest</a></li>
+            <li><a class="link" href="https://astro.build/">Astro</a></li>
+            <li><a class="link" href="https://vuejs.org/">Vue</a></li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
     <script src="./dist/index.umd.cjs"></script>
     <script type="module">
       import { asdf } from './dist/index.js';
