@@ -1,5 +1,11 @@
 # @vb-ws/s
 
+## 0.0.5
+
+### Patch Changes
+
+- 66dc43e: Bump patch
+
 ## 0.0.4
 
 ### Patch Changes
