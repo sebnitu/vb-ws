@@ -11,7 +11,9 @@
   ],
   "scripts": {
     "serve": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
   },
   "publishConfig": {
     "access": "public"
