@@ -1,5 +1,12 @@
 # @vb-ws/a
 
+## 0.0.4
+
+### Patch Changes
+
+- 96cab76: Added vite to all packages.
+- e80f9b5: Added vitest to all packages.
+
 ## 0.0.3
 
 ### Patch Changes
