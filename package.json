@@ -5,6 +5,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "publish": "npm run build --workspaces && npm publish --workspaces"
+  },
   "dependencies": {
     "@changesets/cli": "^2.26.0",
     "@vitest/coverage-c8": "^0.28.5",
