@@ -1,5 +1,16 @@
 # @vb-ws/asdf
 
+## 0.0.5
+
+### Patch Changes
+
+- 66dc43e: Bump patch
+- Updated dependencies [66dc43e]
+  - @vb-ws/a@0.0.5
+  - @vb-ws/d@0.0.5
+  - @vb-ws/f@0.0.5
+  - @vb-ws/s@0.0.5
+
 ## 0.0.4
 
 ### Patch Changes
