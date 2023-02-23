@@ -1,5 +1,11 @@
 # @vb-ws/a
 
+## 0.0.6
+
+### Patch Changes
+
+- 23c0297: Update changeset script
+
 ## 0.0.5
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @vb-ws/asdf
 
+## 0.0.6
+
+### Patch Changes
+
+- 23c0297: Update changeset script
+- Updated dependencies [23c0297]
+  - @vb-ws/a@0.0.6
+  - @vb-ws/d@0.0.6
+  - @vb-ws/f@0.0.6
+  - @vb-ws/s@0.0.6
+
 ## 0.0.5
 
 ### Patch Changes
