@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "scripts": {
-    "publish": "npm run build --workspaces && npm publish --workspaces"
+    "publish": "npm run build --workspaces && npx changeset publish"
   },
   "dependencies": {
     "@changesets/cli": "^2.26.0",
