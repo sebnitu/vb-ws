@@ -1,5 +1,16 @@
 # @vb-ws/asdf
 
+## 0.0.7
+
+### Patch Changes
+
+- f8ac03d: Update publish workflow
+- Updated dependencies [f8ac03d]
+  - @vb-ws/a@0.0.7
+  - @vb-ws/d@0.0.7
+  - @vb-ws/f@0.0.7
+  - @vb-ws/s@0.0.7
+
 ## 0.0.6
 
 ### Patch Changes

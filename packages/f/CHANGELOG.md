@@ -1,5 +1,11 @@
 # @vb-ws/f
 
+## 0.0.7
+
+### Patch Changes
+
+- f8ac03d: Update publish workflow
+
 ## 0.0.6
 
 ### Patch Changes
