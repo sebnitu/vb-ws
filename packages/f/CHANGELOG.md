@@ -1,5 +1,11 @@
 # @vb-ws/f
 
+## 0.1.0
+
+### Minor Changes
+
+- 7886d9e: This is to test what happens when I make a minor release to a package.
+
 ## 0.0.8
 
 ### Patch Changes
