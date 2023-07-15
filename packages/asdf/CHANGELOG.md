@@ -1,5 +1,16 @@
 # @vb-ws/asdf
 
+## 0.0.9
+
+### Patch Changes
+
+- 2c47567: Test bump
+- Updated dependencies [2c47567]
+  - @vb-ws/a@0.0.8
+  - @vb-ws/d@0.0.8
+  - @vb-ws/f@0.0.8
+  - @vb-ws/s@0.0.8
+
 ## 0.0.8
 
 ### Patch Changes

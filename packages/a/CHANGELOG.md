@@ -1,5 +1,11 @@
 # @vb-ws/a
 
+## 0.0.8
+
+### Patch Changes
+
+- 2c47567: Test bump
+
 ## 0.0.7
 
 ### Patch Changes
