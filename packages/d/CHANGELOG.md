@@ -1,5 +1,11 @@
 # @vb-ws/d
 
+## 1.0.0-next.0
+
+### Major Changes
+
+- f3e3728: This is entering pre mode change
+
 ## 0.1.0
 
 ### Minor Changes

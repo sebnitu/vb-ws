@@ -8,5 +8,7 @@
     "@vb-ws/f": "0.1.0",
     "@vb-ws/s": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "famous-melons-refuse"
+  ]
 }

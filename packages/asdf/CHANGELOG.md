@@ -1,5 +1,19 @@
 # @vb-ws/asdf
 
+## 1.0.0-next.0
+
+### Major Changes
+
+- f3e3728: This is entering pre mode change
+
+### Patch Changes
+
+- Updated dependencies [f3e3728]
+  - @vb-ws/a@1.0.0-next.0
+  - @vb-ws/d@1.0.0-next.0
+  - @vb-ws/f@1.0.0-next.0
+  - @vb-ws/s@1.0.0-next.0
+
 ## 0.1.0
 
 ### Minor Changes
