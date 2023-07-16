@@ -9,6 +9,7 @@
     "@vb-ws/s": "0.1.0"
   },
   "changesets": [
+    "chilly-jeans-study",
     "famous-melons-refuse"
   ]
 }

@@ -1,5 +1,11 @@
 # @vb-ws/s
 
+## 1.0.0-next.1
+
+### Patch Changes
+
+- This is a bump of the pre strat
+
 ## 1.0.0-next.0
 
 ### Major Changes

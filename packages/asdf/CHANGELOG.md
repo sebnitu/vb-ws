@@ -1,5 +1,16 @@
 # @vb-ws/asdf
 
+## 1.0.0-next.1
+
+### Patch Changes
+
+- This is a bump of the pre strat
+- Updated dependencies
+  - @vb-ws/a@1.0.0-next.1
+  - @vb-ws/d@1.0.0-next.1
+  - @vb-ws/f@1.0.0-next.1
+  - @vb-ws/s@1.0.0-next.1
+
 ## 1.0.0-next.0
 
 ### Major Changes
