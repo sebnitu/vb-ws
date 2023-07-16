@@ -1,5 +1,37 @@
 # @vb-ws/f
 
+## 1.0.0
+
+### Major Changes
+
+- f3e3728: This is entering pre mode change
+
+### Minor Changes
+
+- 0834a0f: This is a bump of the preminor
+
+### Patch Changes
+
+- 918a9cf: This is a bump of the prepatch
+
+## 1.0.0-next.2
+
+### Minor Changes
+
+- This is a bump of the premajor
+
+## 1.0.0-next.1
+
+### Patch Changes
+
+- This is a bump of the pre strat
+
+## 1.0.0-next.0
+
+### Major Changes
+
+- f3e3728: This is entering pre mode change
+
 ## 0.1.0
 
 ### Minor Changes
