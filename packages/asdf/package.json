@@ -1,6 +1,6 @@
 {
   "name": "@vb-ws/asdf",
-  "version": "1.0.0-next.2",
+  "version": "1.0.0",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.umd.cjs",
@@ -19,9 +19,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@vb-ws/a": "^1.0.0-next.2",
-    "@vb-ws/d": "^1.0.0-next.2",
-    "@vb-ws/f": "^1.0.0-next.2",
-    "@vb-ws/s": "^1.0.0-next.2"
+    "@vb-ws/a": "^1.0.0",
+    "@vb-ws/d": "^1.0.0",
+    "@vb-ws/f": "^1.0.0",
+    "@vb-ws/s": "^1.0.0"
   }
 }

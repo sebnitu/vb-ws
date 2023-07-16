@@ -1,6 +1,6 @@
 {
   "name": "@vb-ws/s",
-  "version": "1.0.0-next.2",
+  "version": "1.0.0",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.umd.cjs",

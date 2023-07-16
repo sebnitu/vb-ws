@@ -1,5 +1,26 @@
 # @vb-ws/asdf
 
+## 1.0.0
+
+### Major Changes
+
+- f3e3728: This is entering pre mode change
+
+### Minor Changes
+
+- 0834a0f: This is a bump of the preminor
+
+### Patch Changes
+
+- 918a9cf: This is a bump of the prepatch
+- Updated dependencies [918a9cf]
+- Updated dependencies [f3e3728]
+- Updated dependencies [0834a0f]
+  - @vb-ws/a@1.0.0
+  - @vb-ws/d@1.0.0
+  - @vb-ws/f@1.0.0
+  - @vb-ws/s@1.0.0
+
 ## 1.0.0-next.2
 
 ### Minor Changes
