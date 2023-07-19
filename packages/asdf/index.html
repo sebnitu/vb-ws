@@ -4,12 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite Test</title>
-    <link rel="stylesheet" href="https://unpkg.com/vrembem/dist/styles.css">
   </head>
   <body>
 
     <main id="app">
-      <section class="section background-shade">
+      <section class="section background-darker">
         <div class="section__container gap-y-xs">
           <h1 class="text-size-lg">Vrembem Workspaces</h1>
           <p class="max-width-xs">This is a test repository for working with NPM workspaces, Vite, Vitest and Changeset.</p>
@@ -32,11 +31,6 @@
       </section>
     </main>
 
-    <script src="./dist/index.umd.cjs"></script>
-    <script type="module">
-      import { asdf } from './dist/index.js';
-      console.log('Via MJS:', asdf);
-      console.log('Via CJS:', vbws.asdf);
-    </script>
+    <script type="module" src="/index.js"></script>
   </body>
 </html>
