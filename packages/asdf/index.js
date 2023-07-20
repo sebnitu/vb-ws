@@ -1,5 +1,5 @@
 // Import Vrembem
-import 'vrembem/scss';
+import 'vrembem/css';
 
 // Import dependent asdf packages
 import { a } from '@vb-ws/a/index';
