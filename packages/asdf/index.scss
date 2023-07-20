@@ -1,0 +1,17 @@
+// Import everything
+@use 'vrembem';
+
+// Output three modules using variables
+// @use '@vrembem/base' with (
+//   $output: false,
+//   $output-normalize: true,
+//   $output-arrow: true,
+//   $output-code: true,
+//   $output-link: true,
+// );
+
+// Import and use a mixin
+// @use '@vrembem/base/mixins' as base;
+// .example {
+//   @include base.arrow();
+// }
