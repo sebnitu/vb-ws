@@ -1,5 +1,5 @@
 // Import Vrembem styles
-import './scss/index.scss';
+import './index.scss';
 
 // Import Vrembem JS
 import * as vb from 'vrembem';

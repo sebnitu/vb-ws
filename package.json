@@ -13,6 +13,6 @@
     "vitest": "^0.33.0"
   },
   "devDependencies": {
-    "vrembem": "^4.0.0-next.0"
+    "vrembem": "^4.0.0-next.1"
   }
 }
