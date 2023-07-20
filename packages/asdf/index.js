@@ -1,5 +1,9 @@
-// Import Vrembem
-import 'vrembem/css';
+// Import Vrembem styles
+import './scss/index.scss';
+
+// Import Vrembem JS
+import * as vb from 'vrembem';
+console.log('Vrembem', vb);
 
 // Import dependent asdf packages
 import { a } from '@vb-ws/a/index';
